@@ -48,7 +48,7 @@ Welcome to **Road to Decency**, a playful take on weight loss and fitness goals 
 
 ## 📂 Save File Location
 
-- **Windows**: `%APPDATA%\Godot\app_userdata\FitnessQuestTracker\save.cfg`
+- **Windows**: `%APPDATA%\Godot\app_userdata\Tracker NEW\save.cfg`
 
 To reset your progress manually, delete the `save.cfg` file or use the in‐game reset button (if added).
 
@@ -66,5 +66,5 @@ This project is open‐source under the **MIT License**.
 
 ---
 
-Happy questing, and may your streak stay strong! 🏃‍♂️💨
+Happy running, and may your streak stay strong! 🏃‍♂️💨
 
