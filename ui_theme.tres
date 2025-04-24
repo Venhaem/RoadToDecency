@@ -1,0 +1,14 @@
+[gd_resource type="Theme" load_steps=3 format=3 uid="uid://d1eqviolsoo"]
+
+[ext_resource type="FontFile" uid="uid://b3s2db1emqllr" path="res://fonts/Minecraft.ttf" id="1_touxu"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_touxu"]
+
+[resource]
+default_font = ExtResource("1_touxu")
+default_font_size = 28
+Label/colors/font_color = Color(1, 1, 1, 1)
+Label/colors/font_outline_color = Color(0, 0, 0, 1)
+Label/colors/font_shadow_color = Color(0, 0, 0, 0)
+Label/constants/shadow_offset_x = 1
+Label/styles/normal = SubResource("StyleBoxEmpty_touxu")

@@ -1,0 +1,8 @@
+# Ignore the big .exe
+Road to Decency 0.1.exe
+
+# Godot stuff you never want in Git
+.import/
+.godot/
+*.tpz
+*.tpbc
